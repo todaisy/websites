@@ -1,0 +1,22 @@
+
+body{
+	background-color: #131313;
+	color: white;
+}
+p {color: purple; 
+   line-height: 1.25;
+   margin-bottom: 1em;
+    }
+ h1 {
+ 	color: tomato;
+ 	background-color: beige;
+ 	font-family: sans-serif;
+ }
+.first {
+	color: navy;
+    font-weight: bold; 
+    border-left: 5px solid beige;
+    }
+ div { 
+ 	outline: 1px solid orange;
+ 	 }
